@@ -37,8 +37,7 @@ https://github.com/Purple-Jack/tech-stuff/blob/main/Misc.md#misc
 https://github.com/Purple-Jack/tech-stuff/blob/main/OCR%20optical%20character%20recognition.md#ocr-optical-character-recognition
 ## Online Web Services & Cool Websites
 https://github.com/Purple-Jack/tech-stuff/blob/main/Online%20web%20services%20%26%20cool%20websites.md#online-web-services--cool-websites
-## Piracy 
-https://github.com/Purple-Jack/tech-stuff/blob/main/Piracy.md#piracy
+
 ## Privacy & Security 
 https://github.com/Purple-Jack/tech-stuff/blob/main/Privacy%20%26%20Security.md#privacy--security
 ## Resources related to search queries on goodle and duck duck go 
